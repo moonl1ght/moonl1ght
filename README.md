@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @moonl1ght and I'm lead iOS engineer
+- 👋 Hi, I’m @moonl1ght
 - 📫 You can reah me out by email ixav1@icloud.com or using [LinkedIn](https://www.linkedin.com/in/alex-lakhonin-37a542174/)
 
 <!---
